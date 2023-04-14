@@ -20,7 +20,7 @@
 
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsamayo&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsamayo&theme=nord_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsamayo&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsamayo&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsamayo&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsamayo&theme=nord_dark)
