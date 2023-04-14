@@ -1,6 +1,6 @@
-<p align="center">
+<p align="left">
 <a href="https://ashleysanders.dev/">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-green?style=flat-square">
 </a>  
 <a href="https://www.linkedin.com/in/ashley-sanders-a19aa1146/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
