@@ -9,14 +9,10 @@
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href='https://www.npmjs.com/~ashmikeketchum' target="_blank">
-    <img alt='NPM' src='https://img.shields.io/badge/-npm-red'>
+    <img alt='NPM' src='https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm&logoColor=white'>
 </a>
 
-<br/> 
-
-<!-- <a href="https://github.com/itsamayo">
-    <img src="https://github-readme-stats.vercel.app/api?username=itsamayo&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
-</a> -->
+<br/>
 
 <a href="https://github.com/itsamayo">
     <img src="https://github-stats-alpha.vercel.app/api?username=itsamayo&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -24,18 +20,7 @@
 
 </p>
 
-* 💡 Open to collaborating on projects and innovative ideas. 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsamayo&theme=tokyonight)
 
-* 💻 Currently working on data intensive products
-
-<details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsamayo&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsamayo&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsamayo&theme=dracula)
-
-</details>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsamayo&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsamayo&theme=tokyonight)
